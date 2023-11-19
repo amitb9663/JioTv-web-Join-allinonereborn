@@ -112,22 +112,23 @@ function switchToDRM5() {
     });
 }
 function _0x5985(_0x483aee, _0x41c5fb) {
-    var _0x8ccaf = _0x8cca();
-    return _0x5985 = function(_0x598550, _0x5e5a0f) {
-        _0x598550 = _0x598550 - 0x8a;
-        var _0xc571c1 = _0x8ccaf[_0x598550];
-        return _0xc571c1;
-    }
-    ,
-    _0x5985(_0x483aee, _0x41c5fb);
+    var _0x342db0 = _0x5985;
+    playerInstance[_0x342db0(0x9a)]({
+        'autostart': !![],
+        'pipIcon': _0x342db0(0x8d),
+        'title': _0x342db0(0x97),
+        'logo': {
+            'file': _0x342db0(0xa5),
+            'hide': _0x342db0(0x8e)
+        },
+        'file': 'https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd',
+        'type': _0x342db0(0x98),
+        'drm': {
+            'clearkey': {
+                'keyId': "03c2e0af2f8159f9f0ce9b5dbc865f10",
+                'key': "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
+            }
+        }
+    });
 }
-function switchToOtherStream() {
-    var _0x2249d8 = _0x5985;
-    window[_0x2249d8(0x8f)][_0x2249d8(0x9b)] = _0x2249d8(0xa4);
-}
-window[_0x16506c(0x99)](_0x16506c(0x92), function() {
-    var _0x5cdf72 = _0x16506c
-      , _0x1da1db = window['confirm']('Join\x20Telegram\x20Group\x20More\x20Update');
-    _0x1da1db && (window[_0x5cdf72(0x8f)][_0x5cdf72(0x9b)] = 'https://telegram.me/+J00m9kwSn6g0ZTJl');
-});
 
