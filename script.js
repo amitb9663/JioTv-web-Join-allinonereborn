@@ -98,7 +98,7 @@ function switchToDRM5() {
         'pipIcon': 'enabled',
         'title': _0x23b676(0x97),
         'logo': {
-            'file': 'https://i.ibb.co/JF3sL4D/photo-6201934876119251224-x.jpg',
+            'file': 'http://i.hmp.me/m/60632615da9acdb7f0ce1df38c17471e.png',
             'hide': _0x23b676(0x8e)
         },
         'file': _0x23b676(0x95),
