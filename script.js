@@ -112,6 +112,16 @@ function switchToDRM5() {
     });
 }
 function _0x5985(_0x483aee, _0x41c5fb) {
+    var _0x8ccaf = _0x8cca();
+    return _0x5985 = function(_0x598550, _0x5e5a0f) {
+        _0x598550 = _0x598550 - 0x8a;
+        var _0xc571c1 = _0x8ccaf[_0x598550];
+        return _0xc571c1;
+    }
+    ,
+    _0x5985(_0x483aee, _0x41c5fb);
+}
+function switchToOtherStream() {
     var _0x342db0 = _0x5985;
     playerInstance[_0x342db0(0x9a)]({
         'autostart': !![],
@@ -121,14 +131,13 @@ function _0x5985(_0x483aee, _0x41c5fb) {
             'file': _0x342db0(0xa5),
             'hide': _0x342db0(0x8e)
         },
-        'file': 'https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd',
+        'file': 'https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd',
         'type': _0x342db0(0x98),
         'drm': {
             'clearkey': {
-                'keyId': "03c2e0af2f8159f9f0ce9b5dbc865f10",
+                'keyId': "03c2e0af2f8159f9f0ce9b5dbc865f10",,
                 'key': "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
             }
         }
     });
 }
-
