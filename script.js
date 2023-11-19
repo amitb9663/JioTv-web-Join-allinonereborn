@@ -130,15 +130,4 @@ window[_0x16506c(0x99)](_0x16506c(0x92), function() {
       , _0x1da1db = window['confirm']('Join\x20Telegram\x20Group\x20More\x20Update');
     _0x1da1db && (window[_0x5cdf72(0x8f)][_0x5cdf72(0x9b)] = 'https://t.me/allinonereborn');
 });
-function switchToDRM7() {
-    <script type="text/javascript">    
-jwplayer("jwplayerDiv").setup({    
-        file: "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd",
-      type: "dash",
-      drm: {
-        "clearkey": {
-          "keyId": "03c2e0af2f8159f9f0ce9b5dbc865f10",
-          "key": "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"    
-            }    
-             }               
-});    
+ 
