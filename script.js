@@ -22,7 +22,7 @@ function switchToDRM1() {
         'pipIcon': _0x2cbfc7(0x8d),
         'title': _0x2cbfc7(0xa1),
         'logo': {
-            'file': 'https://i.ibb.co/JF3sL4D/photo-6201934876119251224-x.jpg',
+            'file': 'http://i.hmp.me/m/61eba28b0dc6c8563490f831ac9a77d1.gif',
             'hide': _0x2cbfc7(0x8e)
         },
         'file': _0x2cbfc7(0x9e),
