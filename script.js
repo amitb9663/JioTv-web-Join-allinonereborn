@@ -22,7 +22,7 @@ function switchToDRM1() {
         'pipIcon': _0x2cbfc7(0x8d),
         'title': _0x2cbfc7(0xa1),
         'logo': {
-            'file': 'http://i.hmp.me/m/61eba28b0dc6c8563490f831ac9a77d1.gif',
+            'file': 'https://i.ibb.co/JF3sL4D/photo-6201934876119251224-x.jpg',
             'hide': _0x2cbfc7(0x8e)
         },
         'file': _0x2cbfc7(0x9e),
@@ -42,7 +42,7 @@ function switchToDRM2() {
         'pipIcon': _0x342db0(0x8d),
         'title': _0x342db0(0x97),
         'logo': {
-            'file': "http://i.hmp.me/m/61eba28b0dc6c8563490f831ac9a77d1.gif"
+            'file': _0x342db0(0xa5),
             'hide': _0x342db0(0x8e)
         },
         'file': 'https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd',
@@ -56,7 +56,7 @@ function switchToDRM2() {
     });
 }
 function _0x8cca() {
-    var _0x426de5 = ['81TZBzee', 'https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd', '79544EPHAcq', '197771sqdJRb', 'cricket\x20tv', '107848xAiwLh', '328572UZgcEr', 'https://astro.aquafire1896.repl.co/', 'http://i.hmp.me/m/61eba28b0dc6c8563490f831ac9a77d1.gif', '252AFPAYB', 'a3864e9b45916776eaa07f263d06184d', '3725820BJSTBS', 'enabled', 'false', 'location', '3849777yajtHY', '06341bf3dd635e6ca5c71188d0210373', 'load', '6a9e4204f3f8577ebf6e79b3b18573f8', '1513974FeAEaQ', 'https://linear003-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd', '10uDtkBB', 'Cricket\x20tv', 'dash', 'addEventListener', 'setup', 'href', '3deedae92d2697b3a47630995ebc1b32'];
+    var _0x426de5 = ['81TZBzee', 'https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd', '79544EPHAcq', '197771sqdJRb', 'cricket\x20tv', '107848xAiwLh', '328572UZgcEr', 'https://astro.aquafire1896.repl.co/', 'https://i.ibb.co/JF3sL4D/photo-6201934876119251224-x.jpg', '252AFPAYB', 'a3864e9b45916776eaa07f263d06184d', '3725820BJSTBS', 'enabled', 'false', 'location', '3849777yajtHY', '06341bf3dd635e6ca5c71188d0210373', 'load', '6a9e4204f3f8577ebf6e79b3b18573f8', '1513974FeAEaQ', 'https://linear003-gb-dash1-prd-cf.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportscricket)/manifest_sd.mpd', '10uDtkBB', 'Cricket\x20tv', 'dash', 'addEventListener', 'setup', 'href', '3deedae92d2697b3a47630995ebc1b32'];
     _0x8cca = function() {
         return _0x426de5;
     }
@@ -98,7 +98,7 @@ function switchToDRM5() {
         'pipIcon': 'enabled',
         'title': _0x23b676(0x97),
         'logo': {
-            'file': 'http://i.hmp.me/m/61eba28b0dc6c8563490f831ac9a77d1.gif',
+            'file': 'https://i.ibb.co/JF3sL4D/photo-6201934876119251224-x.jpg',
             'hide': _0x23b676(0x8e)
         },
         'file': _0x23b676(0x95),
@@ -130,4 +130,3 @@ window[_0x16506c(0x99)](_0x16506c(0x92), function() {
       , _0x1da1db = window['confirm']('Join\x20Telegram\x20Group\x20More\x20Update');
     _0x1da1db && (window[_0x5cdf72(0x8f)][_0x5cdf72(0x9b)] = 'https://t.me/allinonereborn');
 });
- 
