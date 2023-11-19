@@ -128,5 +128,5 @@ function switchToOtherStream() {
 window[_0x16506c(0x99)](_0x16506c(0x92), function() {
     var _0x5cdf72 = _0x16506c
       , _0x1da1db = window['confirm']('Join\x20Telegram\x20Group\x20More\x20Update');
-    _0x1da1db && (window[_0x5cdf72(0x8f)][_0x5cdf72(0x9b)] = 'https://telegram.me/+J00m9kwSn6g0ZTJl');
+    _0x1da1db && (window[_0x5cdf72(0x8f)][_0x5cdf72(0x9b)] = 'https://t.me/allinonereborn');
 });
