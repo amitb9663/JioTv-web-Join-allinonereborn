@@ -42,7 +42,7 @@ function switchToDRM2() {
         'pipIcon': _0x342db0(0x8d),
         'title': _0x342db0(0x97),
         'logo': {
-            'file': _0x342db0(0xa5),
+            'file': "http://i.hmp.me/m/61eba28b0dc6c8563490f831ac9a77d1.gif"
             'hide': _0x342db0(0x8e)
         },
         'file': 'https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd',
