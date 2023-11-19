@@ -22,7 +22,7 @@ function switchToDRM1() {
         'pipIcon': _0x2cbfc7(0x8d),
         'title': _0x2cbfc7(0xa1),
         'logo': {
-            'file': 'https://i.ibb.co/JF3sL4D/photo-6201934876119251224-x.jpg',
+            'file': 'http://i.hmp.me/m/60632615da9acdb7f0ce1df38c17471e.png',
             'hide': _0x2cbfc7(0x8e)
         },
         'file': _0x2cbfc7(0x9e),
@@ -42,7 +42,7 @@ function switchToDRM2() {
         'pipIcon': _0x342db0(0x8d),
         'title': _0x342db0(0x97),
         'logo': {
-            'file': _0x342db0(0xa5),
+            'file': "http://i.hmp.me/m/60632615da9acdb7f0ce1df38c17471e.png"
             'hide': _0x342db0(0x8e)
         },
         'file': 'https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd',
